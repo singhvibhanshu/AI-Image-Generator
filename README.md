@@ -1,4 +1,4 @@
-# AI Image Generation Program
+# AI-Image-Generator
 
 This repository contains code for an AI image generation program built in Python. Follow the instructions below to run the program locally on your machine.
 
