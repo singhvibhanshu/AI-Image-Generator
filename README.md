@@ -46,9 +46,9 @@ To run the program locally, follow these steps:
    - Some models require you to accept their license agreements. If you plan to use the newest stable diffusion model, you must accept the license [here](https://huggingface.co/stabilityai/stable-diffusion-3.5-large).
 
 10. **Choose the Script to Run**:
-   - You can choose to run either `2-1.py` or `3-5.py`:
-     - `2-1.py`: Suitable for most systems.
-     - `3-5.py`: Requires a high-end GPU and takes significantly longer to run.
+   - You can choose to run either `model-2-1.py` or `model-3-5.py`:
+     - `model-2-1.py`: Suitable for most systems.
+     - `model-3-5.py`: Requires a high-end GPU and takes significantly longer to run.
 
 ## Conclusion
 
