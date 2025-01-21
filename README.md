@@ -1,1 +1,1 @@
-# Underrated-Python-Features
+# AI-Image-Generator
